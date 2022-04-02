@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProjAndreAirLinesAPI", "ProjAndreAirLinesAPI\ProjAndreAirLinesAPI.csproj", "{A63B6EFE-2E26-466E-8E47-71C9A008C33A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Robo", "Robo\Robo.csproj", "{5EC77C74-32A9-49D9-B945-F645566A3383}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A63B6EFE-2E26-466E-8E47-71C9A008C33A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A63B6EFE-2E26-466E-8E47-71C9A008C33A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A63B6EFE-2E26-466E-8E47-71C9A008C33A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A63B6EFE-2E26-466E-8E47-71C9A008C33A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EC77C74-32A9-49D9-B945-F645566A3383}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EC77C74-32A9-49D9-B945-F645566A3383}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EC77C74-32A9-49D9-B945-F645566A3383}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EC77C74-32A9-49D9-B945-F645566A3383}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51CD2498-E647-4C71-98A4-4C88DC84039D}
+	EndGlobalSection
+EndGlobal
